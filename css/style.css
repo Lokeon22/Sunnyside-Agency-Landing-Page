@@ -389,7 +389,7 @@ html,body{
 	padding: 0 15px;
 }
 
-@media screen and (max-width: 767px){
+@media (max-width: 767px){
 
 	.flex{
 		display: block;
@@ -498,7 +498,7 @@ html,body{
 	}
 }
 
-@media screen and (max-width: 510px){
+@media (max-width: 510px){
 	.nav-mobile ul{
 		padding: 10px 40px;
 	}
